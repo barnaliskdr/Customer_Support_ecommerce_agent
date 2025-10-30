@@ -12,7 +12,6 @@ from typing import Optional
 # into a readable string format for API responses.
 from utils.objectid_util import PyObjectId
 
-
 # -------------------------------------------------------------
 # 🧱 Base Schema
 # -------------------------------------------------------------
